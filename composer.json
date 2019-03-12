@@ -1,0 +1,17 @@
+{
+    "name": "maksim/small-talk",
+    "description": "Small test project",
+    "type": "project",
+    "license": "MIT",
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ]
+    "authors": [
+        {
+            "name": "Malcom",
+            "email": "Malcom1986@mail.ru"
+        }
+    ],
+    "require": {}
+}
