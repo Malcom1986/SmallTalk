@@ -6,7 +6,7 @@
     "bin": [
         "./sayHi",
         "./sayBye"
-    ]
+    ],
     "authors": [
         {
             "name": "Malcom",
